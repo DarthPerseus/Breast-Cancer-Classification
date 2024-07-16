@@ -5,10 +5,8 @@ This repository contains a simple implementation of a breast cancer prediction m
 Introduction
 Breast cancer is one of the most common types of cancer in women. Early detection and treatment are crucial for improving survival rates. Machine learning techniques, such as logistic regression, can assist in predicting the presence of breast cancer based on various medical measurements.
 
-Dataset
-The Breast Cancer Wisconsin dataset contains 569 samples of malignant and benign tumor cells. Each sample has 30 features, including:
-id	
-diagnosis	
+Dataset: 
+The Breast Cancer Wisconsin dataset contains 569 samples of malignant and benign tumor cells. Each sample has 30 features, including:	
 radius_mean	
 texture_mean	
 perimeter_mean	
